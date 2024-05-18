@@ -1,0 +1,6 @@
+Conclusiones:
+
+1. Durante el desarrollo de la automatización, se identifico que la configuración y descarga de ChromeDrive, cambio la metodología.
+2. Fue un ejercicio muy practico y siendo todo un reto su desarrollo.
+3. El escenario se manejo Outline haciendo el uso de las tablas y mapeando la información base directamente desde el feature.
+4. Se logro culminar con todos steps definidos por el cliente.

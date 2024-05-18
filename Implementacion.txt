@@ -1,0 +1,4 @@
+Implementación:
+1. Para le ejecución se uso Chrome versión 114.
+2. Se trabajo con el gramework Serenity BDD, y Cucumber.
+3. El contenido de la Feature se creo en español.
